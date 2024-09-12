@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden; /* Evita barras de rolagem */
+}
+
+canvas {
+    background-color: OldLace; /* Cor de fundo do canvas */
+    border: 1px solid black; /* Borda preta */
+    display: block; /* Remove o espaço extra abaixo do canvas */
+}
